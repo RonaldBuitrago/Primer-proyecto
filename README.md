@@ -63,3 +63,22 @@ Muestra información ampliada de la obra seleccionada:
 Incluye información del equipo y un formulario de contacto validado con JavaScript.
 
 ---
+## Funcionalidades en JavaScript
+
+- **Filtrado por categoría:** permite mostrar solo las obras de una categoría seleccionada.  
+- **Vista detallada:** al hacer clic en una imagen, se abre una página con más información.  
+- **Validación de formulario:** el formulario de contacto valida campos obligatorios antes de enviarse.
+
+---
+
+**Tecnologías Utilizadas**
+HTML5 → Estructura del contenido.
+CSS3 → Estilos personalizados.
+Bootstrap 5 → Diseño responsivo y componentes prediseñados.
+JavaScript (ES6) → Interactividad y lógica del sitio.
+
+---
+
+**Cómo Ejecutar el Proyecto**
+bash
+Clona este repositorio:https://github.com/tuusuario/galeria-arte.git
