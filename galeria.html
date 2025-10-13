@@ -9,5 +9,42 @@
 </head>
 <body>
 
+  <header class="bg-success bg-opacity-50 text-black py-3">
+    <div class="container d-flex justify-content-between align-items-center">
+      <h1 class="h4 m-0">Galería</h1>
+      <nav>
+      <a href="index.html" class="text-black mx-2 text-decoration-none">Inicio</a>
+      <a href="galeria.html" class="text-black mx-2 text-decoration-none">Galería</a>
+      <a href="detalles.html" class="text-black mx-2 text-decoration-none">Detalles</a>
+      <a href="about.html" class="text-black mx-2 text-decoration-none">Sobre Nosotros</a>
+      </nav>
+  </div>
+</header>
+
+<main class="container my-5">
+
+  <section class="mb-4">
+    <div class="row align-items-center">
+      <div class="col-md-8">
+        <input id="searchInput" class="form-control" placeholder="Buscar por título o autor">
+      </div>
+      <div class="col-md-4 text-md-end mt-2 mt-md-0">
+        <div id="category-buttons-gal" class="d-inline-flex gap-2"></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="gallery-grid" class="row g-3">
+
+  </section>
+
+</main>
+
+    <footer class="bg-light text-center py-3">
+        <div class="container">Galeria Interactiva - Diplomado</div>
+    </footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+<script src="js/script.js"></script>
 </body>
 </html>
