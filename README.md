@@ -20,26 +20,26 @@ Fomentar el trabajo en equipo y la organización de tareas en el desarrollo del 
 
 **Estructura del Proyecto**
 
-📁 Proyecto-Galeria
+📁 Proyecto-Galeria  
 │
-├── 📁 assets
-│ └── 📁 img
-│ ├── foto1.jpg
-│ ├── foto2.jpg
-│ ├── foto3.jpg
-│ └── foto4.jpg
+├── 📁 assets  
+│ └── 📁 img  
+│ ├── foto1.jpg  
+│ ├── foto2.jpg  
+│ ├── foto3.jpg  
+│ └── foto4.jpg  
 │
-├── 📁 js
-│ └── script.js
+├── 📁 js  
+│ └── script.js  
 │
-├── 📁 assets/css
-│ └── styles.css
+├── 📁 assets/css  
+│ └── styles.css  
 │
-├── index.html
-├── galeria.html
-├── detalles.html
-├── sobre-nosotros.html
-└── README.md
+├── index.html  
+├── galeria.html  
+├── detalles.html  
+├── sobre-nosotros.html  
+└── README.md  
 
 ---
 
